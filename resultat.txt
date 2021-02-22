@@ -1,0 +1,25 @@
+****************************
+	Logiciel EPC version V5 
+ 	 Copyright © 2018/2019 SMI3 
+ 	 by Adnane Drief 
+****************************
+
+	 Bonjour 
+ ****************************
+
+
+ la somme des prix : 7.30 
+Le nombre d articles : 2 
+La moyenne des prix :  4
+*********************************
+ bonjour 
+ votre ticket : 
+Numero:	 	 nom:	 quantite:   prix:
+Article	[ 1 ]	[ lait ]	[ 3 ]	[  7 ]
+****************************
+
+****************************
+ Merci pour votre visite 
+ Au revoir 
+Time: 14:23:58
+Date: 02/22/21
